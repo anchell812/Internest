@@ -4,7 +4,7 @@
 
 выполнить команду npm install;
 
-Запуск теста - npm test
+Запуск теста - npm test-ff или npm test-chrome
 
 Структура проекта:
 
